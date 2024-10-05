@@ -3,8 +3,8 @@ one='0'
 two='0\n\t0'
 three='0\n\t0\n\t\t0'
 four='0\t0\n\n0\t0'
-five='0\t0\n    0\n0\t0'
-six='0\t0\n0\t0\n0\t0\n0\t0\n0\t0\n0\t0'
+five='0\t0\n  0 \n0\t0'
+six='0\t0\n0\t0\n0\t0'
 while True:
     numerical_values=[num for num in range(1,7,1)]
     random_number=random.choice(numerical_values)
